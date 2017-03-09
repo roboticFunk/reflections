@@ -1,0 +1,11 @@
+How can having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It will be an integral part of my day to day programming experience, as well as a useful tool for my day to day life.
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can first check to see the history and then compare the history at two different points. Doing so will result in a color coded print out that shows the differences between each line.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Nothing yet. I don't have any files to control or modify.
