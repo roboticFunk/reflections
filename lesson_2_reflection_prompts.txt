@@ -8,8 +8,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 By adding the working directory in increments and using git diff, you are able to double check your work before submitting.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you are working on multiple changes at the same time, or multiple people are working on the same project.
 
 How do the diagrams help you visualize the branch structure?
 
