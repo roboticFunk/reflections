@@ -1,12 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area works as a buffer between your working directory and repository. It allows you and others to double check your work before it is committed.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+By adding the working directory in increments and using git diff, you are able to double check your work before submitting.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
