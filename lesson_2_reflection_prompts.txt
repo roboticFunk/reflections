@@ -14,6 +14,8 @@ When you are working on multiple changes at the same time, or multiple people ar
 
 How do the diagrams help you visualize the branch structure?
 
+Being able to graphically represent the flow of Git makes it easier to conceptualize.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
