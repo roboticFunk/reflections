@@ -9,3 +9,7 @@ Well, say I'm working on something and someone else pushes a commit to GitHub, i
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It allows you to track your current commit placement versus the origin state without being online. It also allows you to update the origin without messing up any code that you've been working on in your master.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I'm sure you could figure out how to do it so that it was just as easy using a server and a python script or two, but it would be a huge pain in the dick to set up. You also wouldn't have the support of the community, or the access to a huge library of code like you do when using GitHub.
