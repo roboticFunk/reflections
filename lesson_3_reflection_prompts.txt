@@ -5,3 +5,7 @@ This is more necessary when dealing with other people, whether that be when coll
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Well, say I'm working on something and someone else pushes a commit to GitHub, it's possible that it could ruin all my work! D:
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows you to track your current commit placement versus the origin state without being online. It also allows you to update the origin without messing up any code that you've been working on in your master.
